@@ -1,5 +1,5 @@
 # AI-CDMO-LAB
-Repository containing exercises for the course **Combinatorial Optimization and Decision Making (CDMO)**, academic year 2024/2025, **Master’s Degree in Artificial Intelligence, University of Bologna
+Repository containing exercises for the course **Combinatorial Optimization and Decision Making (CDMO)**, academic year 2024/2025, Master’s Degree in Artificial Intelligence, University of Bologna
 
 ___
 
